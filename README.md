@@ -11,26 +11,27 @@ Code for "Understanding travel behavior adjustment under COVID-19"
 
 # Structure
 ```
---01Analysis of behavior adjustment pattern under COVID-19 based on LPR data
-----01Analysis of behavior adjustment pattern under COVID-19 based on LPR data(Chinese).ipynb
-----01Analysis of behavior adjustment pattern under COVID-19 based on LPR data(English).ipynb
-----LPR_data_sample.csv
-----YIWU_POI_data.txt
---02partial dependence analysis of RF model
-----02partial_dependence RFmodel.py
-----data sample.csv
---03generate figure
-----Fig. 4 Clustering performance change with the number of clusters
-------Fig. 4 Clustering performance change with the number of clusters..ipynb
-----Fig. 6 Travel behavior adjustment of each cluster at each stage
-------Fig. 6 Travel behavior adjustment of each cluster at each stage..ipynb
-------first_last_dec_cluster0.csv
-------first_last_dec_cluster1.csv
-------first_last_dec_cluster2.csv
-------freqdistribution_cluster0.xlsx
-------freqdistribution_cluster1.xlsx
-------freqdistribution_cluster2.xlsx
-------NVT_ATI_cluster0.xlsx
-------NVT_ATI_cluster1.xlsx
-------NVT_ATI_cluster2.xlsx
+project
+|--01Analysis of behavior adjustment pattern under COVID-19 based on LPR data
+|  |--01Analysis of behavior adjustment pattern under COVID-19 based on LPR data(Chinese).ipynb
+|  |--01Analysis of behavior adjustment pattern under COVID-19 based on LPR data(English).ipynb
+|  |--LPR_data_sample.csv
+|  |--YIWU_POI_data.txt
+|--02partial dependence analysis of RF model
+|  |--02partial_dependence RFmodel.py
+|  |--data sample.csv
+|--03generate figure
+|  |--Fig. 4 Clustering performance change with the number of clusters
+|  |    Fig. 4 Clustering performance change with the number of clusters..ipynb
+|  |--Fig. 6 Travel behavior adjustment of each cluster at each stage
+|  |  |--Fig. 6 Travel behavior adjustment of each cluster at each stage..ipynb
+|  |  |--first_last_dec_cluster0.csv
+|  |  |--first_last_dec_cluster1.csv
+|  |  |--first_last_dec_cluster2.csv
+|  |  |--freqdistribution_cluster0.xlsx
+|  |  |--freqdistribution_cluster1.xlsx
+|  |  |--freqdistribution_cluster2.xlsx
+|  |  |--NVT_ATI_cluster0.xlsx
+|  |  |--NVT_ATI_cluster1.xlsx
+|  |  |--NVT_ATI_cluster2.xlsx
 ```
