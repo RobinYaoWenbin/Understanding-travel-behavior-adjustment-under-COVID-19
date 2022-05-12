@@ -10,6 +10,7 @@ Code for "Understanding travel behavior adjustment under COVID-19"
 "03generate figure" gives the code that plot the figures.
 
 # Structure
+'''
 --01Analysis of behavior adjustment pattern under COVID-19 based on LPR data
 ----01Analysis of behavior adjustment pattern under COVID-19 based on LPR data(Chinese).ipynb
 ----01Analysis of behavior adjustment pattern under COVID-19 based on LPR data(English).ipynb
@@ -32,3 +33,4 @@ Code for "Understanding travel behavior adjustment under COVID-19"
 ------NVT_ATI_cluster0.xlsx
 ------NVT_ATI_cluster1.xlsx
 ------NVT_ATI_cluster2.xlsx
+'''
