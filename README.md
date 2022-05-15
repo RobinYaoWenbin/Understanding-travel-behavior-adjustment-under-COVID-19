@@ -1,4 +1,5 @@
 # Understanding-travel-behavior-adjustment-under-COVID-19
+[![DOI](https://zenodo.org/badge/491491285.svg)](https://zenodo.org/badge/latestdoi/491491285)
 
 Code for "Understanding travel behavior adjustment under COVID-19"
 
