@@ -9,6 +9,8 @@ Code for "Understanding travel behavior adjustment under COVID-19"
 
 "03generate figure" gives the code that plot the figures.
 
+"04getPOI" get POI from the api of AMAP, and clean and analyze it.
+
 # Structure
 ```
 project
@@ -22,7 +24,7 @@ project
 |  |--data sample.csv
 |--03generate figure
 |  |--Fig. 4 Clustering performance change with the number of clusters
-|  |    Fig. 4 Clustering performance change with the number of clusters..ipynb
+|  |  |--Fig. 4 Clustering performance change with the number of clusters..ipynb
 |  |--Fig. 6 Travel behavior adjustment of each cluster at each stage
 |  |  |--Fig. 6 Travel behavior adjustment of each cluster at each stage..ipynb
 |  |  |--first_last_dec_cluster0.csv
@@ -34,4 +36,8 @@ project
 |  |  |--NVT_ATI_cluster0.xlsx
 |  |  |--NVT_ATI_cluster1.xlsx
 |  |  |--NVT_ATI_cluster2.xlsx
+|--04getPOI
+|  |--basics.py
+|  |--getPOI_and_analysis.ipynb
+|  |--plot_map.py
 ```
