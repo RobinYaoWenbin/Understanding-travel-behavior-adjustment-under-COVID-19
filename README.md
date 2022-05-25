@@ -4,6 +4,7 @@
 Code for "Understanding travel behavior adjustment under COVID-19"
 
 Please cite the following paper when using the code.
+
 Please cite this article as: Yao, W., Yu, J., Yang, Y., Chen, N., Jin, S., Hu, Y., Bai, C., Understanding
 travel behavior adjustment under COVID-19, Communications in Transportation Research, https://
 doi.org/10.1016/j.commtr.2022.100068.
