@@ -3,6 +3,11 @@
 
 Code for "Understanding travel behavior adjustment under COVID-19"
 
+Please cite the following paper when using the code.
+Please cite this article as: Yao, W., Yu, J., Yang, Y., Chen, N., Jin, S., Hu, Y., Bai, C., Understanding
+travel behavior adjustment under COVID-19, Communications in Transportation Research, https://
+doi.org/10.1016/j.commtr.2022.100068.
+
 # Code description
 "01Analysis of behavior adjustment pattern under COVID-19 based on LPR data" is the main part of the analysis, which extracts the frequent travel patterns of travelers at all stages of the COVID-19 development based on the license plate recognition data. Then the change of frequent travel pattern is calculated based on frequent travel pattern of each traveler, and the behavior adjustment pattern is obtained on this basis. In addition, this part of the code deeply analyzes the characteristics of each behavior adjustment pattern. Finally, the spatiotemporal travel behavior of travelers before the COVID-19 is extracted to provide support for subsequent analysis.
 
